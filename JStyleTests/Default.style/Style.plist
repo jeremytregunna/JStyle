@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>color.bad</key>
+	<string>666666</string>
+	<key>color.bad2</key>
+	<string>666666FF</string>
+	<key>color.good</key>
+	<string>999999FF</string>
+	<key>pattern.bad</key>
+	<string>bad.png</string>
+	<key>pattern.bad2</key>
+	<string>bad.png</string>
+	<key>pattern.bad3</key>
+	<string>bad.png</string>
+	<key>pattern.good</key>
+	<string>good.png</string>
+	<key>image.bad</key>
+	<string>bad.png</string>
+	<key>image.good</key>
+	<string>good.png</string>
+	<key>font.good</key>
+	<dict>
+		<key>name</key>
+		<string>Helvetica</string>
+		<key>size</key>
+		<string>12</string>
+	</dict>
+</dict>
+</plist>

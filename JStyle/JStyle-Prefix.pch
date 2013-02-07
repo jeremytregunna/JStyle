@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'JStyle' target in the 'JStyle' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
