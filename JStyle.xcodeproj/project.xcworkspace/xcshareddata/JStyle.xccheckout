@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2C5B62B1-1C55-4707-8949-109C816A27EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JStyle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4E9BD56B-7AD7-4B5E-B78D-05A8DA87B9DE</key>
+		<string>ssh://github.com/jeremytregunna/JStyle.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JStyle.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4E9BD56B-7AD7-4B5E-B78D-05A8DA87B9DE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/jeremytregunna/JStyle.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4E9BD56B-7AD7-4B5E-B78D-05A8DA87B9DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4E9BD56B-7AD7-4B5E-B78D-05A8DA87B9DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JStyle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
